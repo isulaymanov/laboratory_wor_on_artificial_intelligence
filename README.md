@@ -24,10 +24,10 @@
 
 ## 18 ноября  
 **Пояснение:**  
-Лабораторная работа посвящена теме C. Реализовать задание D.  
+Лабораторная работа посвящена теме Tensorflow. 
 
 **Ссылка на Colab:**  
-[Перейти к лабораторной работе](https://colab.research.google.com/your_link_here)
+[Перейти к лабораторной работе](https://colab.research.google.com/drive/1ykWut-XNP-dsq2pINSaij_9tXUmtrsVz?usp=sharing)
 
 ---
 
