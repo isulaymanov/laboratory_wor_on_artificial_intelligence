@@ -37,3 +37,11 @@
 
 **Ссылка на Colab:**  
 [Перейти к лабораторной работе](https://drive.google.com/file/d/1h0oC1IDarn7txGKjQt-_dtfaYNrsgGD8/view?usp=sharing)
+
+---
+## 9 декабря  
+**Пояснение:**  
+Тема лабораторной работы.  
+
+**Ссылка на Colab:**  
+[Перейти к лабораторной работе](https://drive.google.com/file/d/1oYsQzclErpUsbt75tbepti7AKrI6XvmH/view?usp=sharing)
